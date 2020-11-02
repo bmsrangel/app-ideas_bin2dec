@@ -1,5 +1,18 @@
 # Bin2Dec
 
+<p align="center">
+  <img src="media/screencapture.gif" width="300px">
+</p>
+
+This is my solution of the app "Bin2Dec" proposed by the repository [App Ideas](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)
+
+Libs I used:
+
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+- [google_fonts](https://pub.dev/packages/google_fonts)
+
+## Project Description
+
 **Tier:** 1-Beginner
 
 Binary is the number system all digital computers are based on.
@@ -21,9 +34,9 @@ constraints:
 
 ## User Stories
 
-- [ ] User can enter up to 8 binary digits in one input field
-- [ ] User must be notified if anything other than a 0 or 1 was entered
-- [ ] User views the results in a single output field containing the decimal (base 10) equivalent of the binary number that was entered
+- [x] User can enter up to 8 binary digits in one input field
+- [x] User must be notified if anything other than a 0 or 1 was entered
+- [x] User views the results in a single output field containing the decimal (base 10) equivalent of the binary number that was entered
 
 ## Bonus features
 
